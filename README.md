@@ -1,3 +1,3 @@
 # L.E.D. Suit
 
-[Imgur](http://i.imgur.com/smbfN8a.png)
+<img src="http://i.imgur.com/smbfN8a.png" title="Hosted by imgur.com" />
